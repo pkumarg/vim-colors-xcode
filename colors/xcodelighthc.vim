@@ -397,7 +397,7 @@ if s:t_Co >= 256
   hi EndOfBuffer ctermfg=231 ctermbg=231 cterm=NONE
   hi FoldColumn ctermfg=252 ctermbg=NONE cterm=NONE
   hi Folded ctermfg=246 ctermbg=254 cterm=NONE
-  hi LineNr ctermfg=252 ctermbg=NONE cterm=NONE
+  hi LineNr ctermfg=93 ctermbg=NONE cterm=NONE
   hi MatchParen ctermfg=16 ctermbg=227 cterm=NONE
   hi MatchWord ctermfg=231 ctermbg=26 cterm=NONE
   hi SignColumn ctermfg=252 ctermbg=NONE cterm=NONE
@@ -423,11 +423,11 @@ if s:t_Co >= 256
   hi IncSearch ctermfg=16 ctermbg=227 cterm=NONE
   hi Search ctermfg=16 ctermbg=254 cterm=NONE
   hi Visual ctermfg=NONE ctermbg=153 cterm=NONE
-  hi DiffAdd ctermfg=NONE ctermbg=195 cterm=NONE
+  hi DiffAdd ctermfg=NONE ctermbg=120 cterm=NONE
   hi DiffChange ctermfg=NONE ctermbg=NONE cterm=NONE
-  hi DiffDelete ctermfg=NONE ctermbg=255 cterm=NONE
-  hi DiffText ctermfg=NONE ctermbg=230 cterm=NONE
-  hi Comment ctermfg=246 ctermbg=NONE cterm=NONE
+  hi DiffDelete ctermfg=167 ctermbg=225 cterm=NONE
+  hi DiffText ctermfg=NONE ctermbg=220 cterm=NONE
+  hi Comment ctermfg=21 ctermbg=NONE cterm=NONE
   hi Error ctermfg=231 ctermbg=124 cterm=NONE
   hi PreProc ctermfg=94 ctermbg=NONE cterm=NONE
   hi Special ctermfg=23 ctermbg=NONE cterm=NONE

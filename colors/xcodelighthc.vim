@@ -421,10 +421,10 @@ if s:t_Co >= 256
   hi VertSplit ctermfg=255 ctermbg=255 cterm=NONE
   hi WildMenu ctermfg=231 ctermbg=26 cterm=NONE
   hi IncSearch ctermfg=16 ctermbg=227 cterm=NONE
-  hi Search ctermfg=16 ctermbg=254 cterm=NONE
+  hi Search ctermfg=16 ctermbg=227 cterm=NONE
   hi Visual ctermfg=NONE ctermbg=153 cterm=NONE
   hi DiffAdd ctermfg=NONE ctermbg=120 cterm=NONE
-  hi DiffChange ctermfg=NONE ctermbg=NONE cterm=NONE
+  hi DiffChange ctermfg=NONE ctermbg=225 cterm=NONE
   hi DiffDelete ctermfg=167 ctermbg=225 cterm=NONE
   hi DiffText ctermfg=NONE ctermbg=220 cterm=NONE
   hi Comment ctermfg=21 ctermbg=NONE cterm=NONE
